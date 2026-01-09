@@ -20,3 +20,14 @@
   ]
 }
 
+,
+{
+  "id": "#ens",
+  "type": "ENS",
+  "serviceEndpoint": {
+    "name": "ali.eth",
+    "network": "ethereum",
+    "resolver": "https://app.ens.domains/name/ali.eth"
+  }
+}
+
